@@ -1,0 +1,7 @@
+{
+  "name": "polymer-fireworks#gh-pages",
+  "private": true,
+  "dependencies": {
+    "polymer-fireworks": "Scarygami/polymer-fireworks#master"
+  }
+}

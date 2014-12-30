@@ -1,0 +1,27 @@
+{
+  "name": "polymer-fireworks",
+  "version": "0.0.1",
+  "authors": [
+    "Gerwin Sturm <scarygami@gmail.com>"
+  ],
+  "description": "Simple fireworks component for the new year.",
+  "keywords": [
+    "polymer",
+    "firework",
+    "fireworks",
+    "animation",
+    "newyear"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/Scarygami/polymer-fireworks/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.2",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.5.2",
+    "core-animation": "Polymer/core-animation#^0.5.2",
+    "font-roboto": "Polymer/font-roboto#^0.5.2"
+  }
+}
